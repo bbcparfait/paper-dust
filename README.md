@@ -19,11 +19,11 @@ Inspired by the simplicity of paper, it combines soft neutral backgrounds with t
 
 ### TypeScript
 
-![Paper Dust — TypeScript](assets/typescript.png)
+![Paper Dust — TypeScript](https://raw.githubusercontent.com/bbcparfait/paper-dust/main/assets/typescript.png)
 
 ### Python
 
-![Paper Dust — Python](assets/python.png)
+![Paper Dust — Python](https://raw.githubusercontent.com/bbcparfait/paper-dust/main/assets/python.png)
 
 ## Installation
 
