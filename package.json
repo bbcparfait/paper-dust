@@ -1,0 +1,29 @@
+{
+  "name": "paper-dust",
+  "displayName": "Paper Dust",
+  "description": "A quieter place to code. A warm, minimal VS Code theme with thoughtful syntax colours.",
+  "version": "0.1.0",
+  "publisher": "paper-dust",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "minimal",
+    "warm",
+    "paper"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paper Dust",
+        "uiTheme": "vs",
+        "path": "./themes/paper-dust-color-theme.json"
+      }
+    ]
+  }
+}

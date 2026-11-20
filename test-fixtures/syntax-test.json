@@ -1,0 +1,11 @@
+{
+  "name": "Paper Dust",
+  "version": "0.1.0",
+  "enabled": true,
+  "downloads": 1250,
+  "tags": ["minimal", "light", "warm"],
+  "author": {
+    "name": "Developer",
+    "website": null
+  }
+}
