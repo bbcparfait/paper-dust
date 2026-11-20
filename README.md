@@ -27,7 +27,7 @@ Inspired by the simplicity of paper, it combines soft neutral backgrounds with t
 
 ## Installation
 
-Once published, Paper Dust will be available through the Visual Studio Code Extensions Marketplace.
+Install Paper Dust directly from the Visual Studio Code Marketplace.
 
 1. Open Visual Studio Code.
 2. Open Extensions (`Cmd/Ctrl + Shift + X`).
