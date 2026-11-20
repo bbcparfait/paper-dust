@@ -1,4 +1,3 @@
-
 from dataclasses import dataclass
 
 
@@ -16,6 +15,6 @@ def create_user(name: str, age: int) -> User:
     return User(name=name, age=age)
 
 
-# Create a user
+# Welcome our first user
 alice = create_user("Alice", 25)
-print(alice)
+print(f"Hello, {alice.name}!")

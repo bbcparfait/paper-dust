@@ -1,8 +1,17 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbcparfait/paper-dust.git"
+  },
+  "homepage": "https://github.com/bbcparfait/paper-dust#readme",
+  "bugs": {
+    "url": "https://github.com/bbcparfait/paper-dust/issues"
+  },
   "name": "paper-dust",
   "displayName": "Paper Dust",
   "description": "A quieter place to code. A warm, minimal VS Code theme with thoughtful syntax colours.",
   "version": "0.1.0",
+  "icon": "assets/icon.png",
   "publisher": "paper-dust",
   "engines": {
     "vscode": "^1.90.0"
